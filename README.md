@@ -1,1 +1,1 @@
-# KimKSentimentAnalysis
+# Kim Kardashian Sentiment Analysis
